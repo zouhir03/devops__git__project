@@ -1,3 +1,4 @@
 Projet DevOps M1
 Ajout fonctionnalité login
 Ajout fonctionnalité profile
+Ajout fonctionnalité profile
